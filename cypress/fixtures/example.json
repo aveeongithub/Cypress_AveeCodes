@@ -1,0 +1,6 @@
+{
+  "name": "Avinandan Tests Data from .json",
+  "name2" : "Pass2",
+  "email": "avinandan25dey@gmail.com",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
